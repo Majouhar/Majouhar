@@ -12,9 +12,11 @@
 - 👨‍💻 My Portfolio Available at
 [https://majouhar-portfolio.netlify.app/](https://majouhar-portfolio.netlify.app/)
 
-- 💬 Ask me about **NextJS, React, Kotlin**
+- 💬 Ask me about **NextJS, ReactJS, Kotlin**
 
 - 📫 How to reach me **majajouhar@gmail.com**
+
+- 😒 Old Github Account at [maja-98](https://github.com/maja-98)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
