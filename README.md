@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **majajouhar@gmail.com**
 
+- 🔧 Helping fellow coders untangle their bugs over at [Stack Overflow](https://stackoverflow.com/users/17748676/muhammed-ali-jouhar-a)
+
 - 😒 Old Github Account at [maja-98](https://github.com/maja-98)
 
 <h3 align="center">Connect with me:</h3>
