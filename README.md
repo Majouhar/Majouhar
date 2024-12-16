@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali Jouhar A</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full stack Developer developer</h3>
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=maja-98&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,11 +12,11 @@
 - 👨‍💻 My Portfolio Available at
 [https://majouhar-portfolio.netlify.app/](https://majouhar-portfolio.netlify.app/)
 
-- 💬 Ask me about **NextJS, ReactJS, Kotlin**
+- 💬 Ask me about **NextJS, ReactJS, Spring Boot, Kotlin**
 
 - 📫 How to reach me **majajouhar@gmail.com**
 
-- 🔧 Helping fellow coders untangle their bugs over at [Stack Overflow](https://stackoverflow.com/users/17748676/muhammed-ali-jouhar-a)
+- 🔧 Helping fellow coders untangle their bugs over at [Stack Overflow](https://stackoverflow.com/users/17748676)
 
 - 😒 Old Github Account at [maja-98](https://github.com/maja-98)
 
