@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Cloud, Performance and Integration Testing**
 
 - 👨‍💻 My Portfolio Available at
-[https://majouhar-portfolio.netlify.app/](https://majouhar-portfolio.netlify.app/)
+  [MAJA the Developer (Work In Progress)](https://maja-the-developer.vercel.app/)
 
 - 💬 Ask me about **NextJS, ReactJS, Spring Boot, Kotlin**
 
